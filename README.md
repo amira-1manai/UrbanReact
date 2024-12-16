@@ -66,6 +66,8 @@ npm install
 3.Set Up Environment Variables
 
 Create a .env file in the root directory and add the necessary credentials:
+
+
 EXPO_PUBLIC_CLERK_PUBLISHABLE_KEY=
 EXPO_PUBLIC_PLACES_API_KEY=
 EXPO_PUBLIC_DIRECTIONS_API_KEY=
